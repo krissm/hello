@@ -3,7 +3,7 @@
 	<title>Hello World</title>
 </head>
 <body>
-<h1>Hello</h1>
+<h1>Hello version 3</h1>
 <?php echo "my name is Mega"; ?>
 </body>
 </html>
