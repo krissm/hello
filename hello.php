@@ -4,6 +4,6 @@
 </head>
 <body>
 <h1>Hello version 3</h1>
-<?php echo "my name is Mega"; ?>
+<?php echo "my name eclipse"; ?>
 </body>
 </html>
